@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/popupborder"
+    tools:context="com.example.abheisenberg.cccliveschedule.Popups.HRContestDetails">
+
+    <TextView
+        android:id="@+id/tvCCOpensAtHeading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/opens_at"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="11dp"
+        android:layout_marginRight="11dp"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:textColor="#bcbcbc"
+        />
+
+    <TextView
+        android:id="@+id/tvCCOpensAtText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/tvCCOpensAtHeading"
+        android:text="Details"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="11dp"
+        android:layout_marginRight="11dp"
+        android:fontFamily="sans-serif-condensed"
+        android:textSize="16sp"
+        android:textColor="#bcbcbc"
+        />
+
+    <TextView
+        android:id="@+id/tvCCClosesAtHeading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/closes_at"
+        android:layout_below="@id/tvCCOpensAtText"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="11dp"
+        android:layout_marginRight="11dp"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:textColor="#bcbcbc"
+        />
+
+    <TextView
+        android:id="@+id/tvCCClosesAtText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/tvCCClosesAtHeading"
+        android:text="Details"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="11dp"
+        android:layout_marginRight="11dp"
+        android:fontFamily="sans-serif-condensed"
+        android:textSize="16sp"
+        android:textColor="#bcbcbc"
+        />
+
+
+    <!--<TextView-->
+        <!--android:id="@+id/tvCCDurationHeading"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:text="@string/duration"-->
+        <!--android:layout_below="@id/tvCCClosesAtText"-->
+        <!--android:layout_marginTop="20dp"-->
+        <!--android:layout_marginLeft="11dp"-->
+        <!--android:layout_marginRight="11dp"-->
+        <!--android:textStyle="bold"-->
+        <!--android:textSize="16sp"-->
+        <!--android:textColor="#bcbcbc"-->
+        <!--/>-->
+
+    <!--<TextView-->
+        <!--android:id="@+id/tvCCDurationText"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_below="@id/tvCCDurationHeading"-->
+        <!--android:text="Details"-->
+        <!--android:layout_marginTop="5dp"-->
+        <!--android:layout_marginLeft="11dp"-->
+        <!--android:layout_marginRight="11dp"-->
+        <!--android:fontFamily="sans-serif-condensed"-->
+        <!--android:textSize="16sp"-->
+        <!--android:textColor="#bcbcbc"-->
+        <!--/>-->
+
+    <TextView
+        android:id="@+id/tvWebsite"
+        android:text="@string/gotowebsite"
+        android:layout_marginRight="11dp"
+        android:layout_marginLeft="11dp"
+        android:layout_marginTop="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textColor="#5ca8ff"
+        android:textSize="15sp"
+        />
+
+</RelativeLayout>

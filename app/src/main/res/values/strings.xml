@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Codeule</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="description_heading"><u>Contest Description</u></string>
+    <string name="opens_at"><u>Stars at</u></string>
+    <string name="closes_at"><u>Closes at</u></string>
+    <string name="duration"><u>Duration</u></string>
+    <string name="about"><u>About</u></string>
+    <string name="alarm_settings"><b>Alarm Settings</b></string>
+    <string name="gotowebsite"><u><i>Click here for more details and sign-up</i></u></string>
+    <string name="is1_welcome"><b>WELCOME</b></string>
+    <string name="is1_details">Now get the contests schedule of \nHackerRank, CodeChef and HackerEarth,\nall at one place!</string>
+    <string name="is1_nevermiss">NEVER MISS ANOTHER CODING CONTEST</string>
+    <string name="is2_website">The top bar shows the website on which the present contest is hosted.</string>
+    <string name="is3_contesttile">1. Contest Type\n2. Contest Start/End time (if already started)\n3. Contest Name</string>
+    <string name="is4_conteststatus">Shows the status of the contest: Upcoming, Active or already Ended.</string>
+    <string name="is5_alarm">Quickly set an alarm with one click to alert you before the contest starts by tapping here.</string>
+    <string name="is6_contestdetails">Tap anywhere on the contest tile to open up the contest details window and the link for signing-up!</string>
+    <string name="testAd">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="CCAd">ca-app-pub-6086832445734283/5176707979</string>
+    <string name="HRAd">ca-app-pub-6086832445734283/4284575930</string>
+    <string name="HEAd">ca-app-pub-6086832445734283/7934733259</string>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_is1_welcome"
+        android:text="@string/is1_welcome"
+        android:textSize="30sp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp"
+        android:textStyle="bold"
+        android:textColor="#c1c1c1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="casual"
+        />
+
+    <TextView
+        android:id="@+id/tv_is1_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/tv_is1_welcome"
+        android:textSize="16sp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="50dp"
+        android:gravity="center"
+        android:text="@string/is1_details"
+        />
+
+    <ImageView
+        android:id="@+id/tv_is1_image"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:src="@drawable/abhilogo"
+        android:layout_below="@id/tv_is1_details"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        android:text="@string/is1_nevermiss"
+        android:layout_alignBottom="@+id/tv_is1_image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="11dp" />
+
+
+</RelativeLayout>

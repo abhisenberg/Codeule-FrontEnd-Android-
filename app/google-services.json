@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "575384138009",
+    "firebase_url": "https://competitivecontestsschedule.firebaseio.com",
+    "project_id": "competitivecontestsschedule",
+    "storage_bucket": "competitivecontestsschedule.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575384138009:android:a508823f175d14ca",
+        "android_client_info": {
+          "package_name": "com.example.abheisenberg.competitivecodingcontests"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575384138009-tshd8meo52bugspdo13glaugqou0guoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abheisenberg.competitivecodingcontests",
+            "certificate_hash": "2dd70ea96b3af8e3dbc2f7f6ecd3bcd01253e879"
+          }
+        },
+        {
+          "client_id": "575384138009-vusgel0hkru513n5t93r3hv8t2qck4t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGAbNsatsc2RP1hTrxd2XkN34QDMvMEeM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575384138009-vusgel0hkru513n5t93r3hv8t2qck4t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575384138009:android:b4c51fef6be47de6",
+        "android_client_info": {
+          "package_name": "com.example.abheisenberg.testingfirebaselist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575384138009-kn5uddaqa9dpg201b6dgabobckr1lb37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abheisenberg.testingfirebaselist",
+            "certificate_hash": "2dd70ea96b3af8e3dbc2f7f6ecd3bcd01253e879"
+          }
+        },
+        {
+          "client_id": "575384138009-vusgel0hkru513n5t93r3hv8t2qck4t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGAbNsatsc2RP1hTrxd2XkN34QDMvMEeM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575384138009-vusgel0hkru513n5t93r3hv8t2qck4t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575384138009:android:0ae1bd7df8facde1",
+        "android_client_info": {
+          "package_name": "com.example.abheisenberg.competitivecodingcontestsliveschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575384138009-4u84a9ee17iuah5a6be0rtbnpalin30n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abheisenberg.competitivecodingcontestsliveschedule",
+            "certificate_hash": "2dd70ea96b3af8e3dbc2f7f6ecd3bcd01253e879"
+          }
+        },
+        {
+          "client_id": "575384138009-vusgel0hkru513n5t93r3hv8t2qck4t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGAbNsatsc2RP1hTrxd2XkN34QDMvMEeM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575384138009-vusgel0hkru513n5t93r3hv8t2qck4t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575384138009:android:97d698b260756f18",
+        "android_client_info": {
+          "package_name": "com.example.abheisenberg.cccliveschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575384138009-f9qch529h8eotr210gmf3dj4he7i9srt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abheisenberg.cccliveschedule",
+            "certificate_hash": "2dd70ea96b3af8e3dbc2f7f6ecd3bcd01253e879"
+          }
+        },
+        {
+          "client_id": "575384138009-vusgel0hkru513n5t93r3hv8t2qck4t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGAbNsatsc2RP1hTrxd2XkN34QDMvMEeM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575384138009-vusgel0hkru513n5t93r3hv8t2qck4t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

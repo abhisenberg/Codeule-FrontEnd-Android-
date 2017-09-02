@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:padding="10dp"
+    >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+            <TextView
+                android:id="@+id/tvCCContestName"
+                android:layout_weight="5"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Contest Name"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                />
+
+            <ImageView
+                android:id="@+id/ivCCAlarmIcon"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="30dp"
+                android:src="@drawable/clockicon"
+                />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvCCContestCode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Contest Code"
+            android:textSize="13sp"
+            />
+
+        <TextView
+            android:id="@+id/tvCCContestStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Status"
+            android:textSize="14sp"
+            />
+
+        <TextView
+            android:layout_marginTop="8dp"
+            android:text="Starts at:"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tvCCStartsAt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@android:color/holo_blue_dark"
+            android:text="21 July 2017"
+            />
+
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

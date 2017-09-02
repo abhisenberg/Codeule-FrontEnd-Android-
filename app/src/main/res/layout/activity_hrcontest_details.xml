@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/popupborder"
+    tools:context="com.example.abheisenberg.cccliveschedule.Popups.HRContestDetails">
+
+    <TextView
+        android:id="@+id/tvHRDescriptionHeading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/description_heading"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="11dp"
+        android:layout_marginRight="11dp"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:textColor="#bcbcbc"
+        />
+
+    <TextView
+        android:id="@+id/tvHRLongTextDetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/tvHRDescriptionHeading"
+        android:text="Details"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="11dp"
+        android:layout_marginRight="11dp"
+        android:fontFamily="sans-serif-condensed"
+        android:textSize="16sp"
+        android:textColor="#bcbcbc"
+        />
+
+    <TextView
+        android:id="@+id/tvWebsite"
+        android:text="@string/gotowebsite"
+        android:layout_marginRight="11dp"
+        android:layout_marginLeft="11dp"
+        android:layout_marginTop="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textColor="#5ca8ff"
+        android:textSize="15sp"
+        />
+
+</RelativeLayout>

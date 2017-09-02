@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="CCCLSTHeme">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FFA6A6A6</item>
+        <item name="colorPrimaryDark">#FFE5E7E9</item>
+        <item name="colorAccent">#FFFFCF40</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="CCCLSTHeme" parent="Theme.AppCompat.NoActionBar" >
+        <item name="colorPrimary">@color/colorSilver</item>
+        <item name="colorPrimaryDark">@color/primary_material_dark_1</item>
+        <item name="android:colorBackground">@color/background_material_dark</item>
+    </style>
+
+    <style name="PopupTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+    </style>
+
+</resources>

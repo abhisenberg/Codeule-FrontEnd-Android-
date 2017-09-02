@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imgvw_is2_website"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/introimg_website"
+        android:layout_marginTop="162dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_below="@id/imgvw_is2_website"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="60dp"
+        android:textSize="17sp"
+        android:gravity="center"
+        android:text="@string/is2_website"
+        android:fontFamily="casual"
+        android:textColor="#c1c1c1"
+        />
+
+</RelativeLayout>
