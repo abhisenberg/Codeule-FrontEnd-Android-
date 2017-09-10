@@ -142,7 +142,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:575384138009:android:97d698b260756f18",
         "android_client_info": {
-          "package_name": "com.example.abheisenberg.cccliveschedule"
+          "package_name": "com.alphabetastudios.codeule"
         }
       },
       "oauth_client": [
@@ -150,7 +150,7 @@
           "client_id": "575384138009-f9qch529h8eotr210gmf3dj4he7i9srt.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.abheisenberg.cccliveschedule",
+            "package_name": "com.alphabetastudios.codeule",
             "certificate_hash": "2dd70ea96b3af8e3dbc2f7f6ecd3bcd01253e879"
           }
         },

@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:ads="http://schemas.android.com/apk/res-auto"
-    tools:context="com.example.abheisenberg.cccliveschedule.Fragments.HackerrankFragment">
+    tools:context="com.alphabetastudios.codeule.Fragments.HackerrankFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <android.support.v7.widget.RecyclerView
@@ -38,7 +38,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         ads:adSize="BANNER"
-        ads:adUnitId="@string/testAd">
+        ads:adUnitId="@string/HRAd">
     </com.google.android.gms.ads.AdView>
 
 </RelativeLayout>

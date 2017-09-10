@@ -5,7 +5,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "26.0.0"
     defaultConfig {
-        applicationId "com.example.abheisenberg.cccliveschedule"
+        applicationId "com.alphabetastudios.codeule"
         minSdkVersion 19
         targetSdkVersion 25
         versionCode 1
@@ -14,7 +14,8 @@ android {
     }
     buildTypes {
         release {
-            minifyEnabled false
+            shrinkResources true
+            minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }

@@ -3,7 +3,7 @@
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="description_heading"><u>Contest Description</u></string>
-    <string name="opens_at"><u>Stars at</u></string>
+    <string name="opens_at"><u>Starts at</u></string>
     <string name="closes_at"><u>Closes at</u></string>
     <string name="duration"><u>Duration</u></string>
     <string name="about"><u>About</u></string>
